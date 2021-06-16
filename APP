@@ -1,6 +1,6 @@
 {
-"url": "https://vozlein.club/",
-"urlSecond": "z6FrQv",
+"url": "https://stackoverflow.com/",
+"urlSecond": " ",
 "randomValue": "14",
 "flag": "1"
 }
